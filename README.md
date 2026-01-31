@@ -17,8 +17,6 @@ Durante o desenvolvimento, foquei em escrever um código limpo e resiliente:
 * **Tratamento de Respostas:** Uso estratégico de Status Codes HTTP como `Ok()`, `NotFound()` e `NoContent()`.
 * **Código Organizado:** Separação clara entre a lógica de rotas (`Controllers`) e a modelagem de dados (`Objects/Models`).
 
-> **Conexão com Game Dev:** > Embora este seja um projeto Backend, apliquei a mesma disciplina de lógica que utilizo no desenvolvimento de **Agentes Inteligentes** em jogos. A estruturação de dados aqui reflete a organização necessária para criar sistemas complexos e escaláveis.
-
 ## Tecnologias Utilizadas
 * **C# / .NET**
 * **ASP.NET Core Web API**
